@@ -1,0 +1,20 @@
+npm install
+npm run dev
+
+GET
+POST
+PUT
+DELETE
+
+req.body
+req.params
+req.query
+
+app.use(express.json())
+
+Status codes:
+200 OK
+201 Created
+400 Bad Request
+404 Not Found
+500 Server Error
